@@ -327,7 +327,7 @@ dfn[title] {
 }
 
 mark {
-  background: #fff099;
+  background: #fccf03;
   color: #000000;
 }
 
@@ -1284,7 +1284,7 @@ input::-moz-focus-inner {
 }
 
 .alert-box--error {
-  background-color: #ffd1d2;
+  background-color: #fcffa1;
   color: #dd4043;
 }
 
